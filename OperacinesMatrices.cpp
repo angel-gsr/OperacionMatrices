@@ -192,10 +192,10 @@ int main()
 			          		printf(" %d ", A[i][j]);
 			          		superior+=A[i][j];
 			        	}
-						/*else
+						else
 						{
-			          		printf("\n");
-			        	}*/
+			          		printf("   ");
+			        	}
 			      	}
 			      	printf("\n");
 			    }
